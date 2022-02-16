@@ -15,6 +15,6 @@ The prototype is: char *get_next_line(int fd);
 The following command will read from the file `main.c` 5 bytes at a time.
 `./a.out main.c -D BUFFER_SIZE=5`  
 
-**Return value:  **
+**Return value:**  
 1 if it is not the EOF (End Of File),  
 0 if it reached the EOF (End Of File).
