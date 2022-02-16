@@ -12,7 +12,7 @@ The prototype is: char *get_next_line(int fd);
 
 **HOW TO USE THE FUNCTION**  
 `gcc main.c get_next_line.c get_next_line_utils.c`  
-The following command will read from the file `main.c` 5 bytes at a time.
+The following command will read from the file `main.c` 5 bytes at a time.  
 `./a.out main.c -D BUFFER_SIZE=5`  
 
 **Return value:**  
