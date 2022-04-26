@@ -1,6 +1,6 @@
 # get_next_line
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cboutier/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[![cboutier's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1f9y1k8000609jsc4a29jay/project/2184341)](https://github.com/JaeSeoKim/badge42)
 
 Validated on June 4th, 2021
 
